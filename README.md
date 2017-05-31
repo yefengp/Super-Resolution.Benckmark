@@ -1,4 +1,4 @@
-# Super-Resolution.Benckmark
+# Super-Resolution.Benchmark
 A curated list of super-resolution resources and a benchmark for single image super-resolution algorithms.
 
 See my implementated super-resolution algorithms:
